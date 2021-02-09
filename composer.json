@@ -1,0 +1,5 @@
+{
+    "require": {
+        "askoldex/teletant": "^1.4"
+    }
+}
